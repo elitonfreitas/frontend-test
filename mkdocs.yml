@@ -1,0 +1,8 @@
+site_name: "clickbus-frontend-responsive"
+site_description: "Frontend responsivo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

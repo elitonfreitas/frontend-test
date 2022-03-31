@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "clickbus-frontend-responsive"
+  description: "Frontend responsivo"
+  annotations:
+    github.com/project-slug: elitonfreitas/frontend-test
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "backstage"
